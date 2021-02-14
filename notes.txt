@@ -1,0 +1,32 @@
+for styling we were using SCSS
+But as the application grows the styling names may conflict
+
+1.) One solution
+    we can use CSS in JS like,
+    <div style={{'name':'value'}}></div>
+
+    But this does not support some of the styles like hover and many more 
+    And also the code looks very confusing, big
+
+
+2.) Second solution
+    we can use BEM(Block Element Modifier), it's a styling method.
+    But in this we have to use big big names like, 
+        => .container .header .title 
+        => .container .main .collection .item .name
+
+    So it becomes very less effective and daunting 
+
+    http://getbem.com/introduction/
+    https://css-tricks.com/bem-101/
+
+
+3.) Third Solution    
+    So we can use one library 
+        => "styled-components" (CSS-JS library)
+        =>we can leverage this library in many ways
+    
+    https://www.joshwcomeau.com/css/styled-components/
+    https://styled-components.com/
+
+    

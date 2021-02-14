@@ -1,0 +1,21 @@
+.cart{
+    position: relative;
+    // border:1px solid;
+
+    .cartImg{
+        margin:auto;
+        width:40px;
+        height:40px; 
+        // border:1px solid;
+   
+    }
+
+    .cartItemCount{
+        width: 100%;
+        color:rgb(182, 10, 10);
+        position:absolute;
+        top:15px;
+        text-align: center;
+        font-weight: bold;
+    }
+}
