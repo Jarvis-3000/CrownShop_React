@@ -20,7 +20,7 @@ function Header({currentUser,cartHidden}){
     return (
         <div className="header">
             <Link to="/" className="logo">
-                <img alt="logo" src="http://localhost:3000/crown.png"/>
+                <img alt="logo" src="/crown.png"/>
             </Link>
             <h1 className="heading">CROWN SHOP</h1>
             <div className="navigation">
