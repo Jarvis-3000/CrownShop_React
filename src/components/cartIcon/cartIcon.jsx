@@ -26,7 +26,7 @@ function mapStateToProps(state){
 function CartIcon({toggleCartHidden, countItems}) {
     return (
         <div className="cart" onClick={toggleCartHidden}>
-            <img alt="Cart" src="http://localhost:3000/shoping-bag.svg" className="cartImg" />
+            <img alt="Cart" src="/shoping-bag.svg" className="cartImg" />
             <div className="cartItemCount">{countItems}</div>
         </div>
     )
