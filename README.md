@@ -1,6 +1,14 @@
 # [Visit Live](https://crownshopp.vercel.app/)
 
-#
+# Info
+  It is a full-featured eCommerce website, that has features like a cart for adding products in, a top product carousel, stripe integrated payment gateway is also there.
+
+  Used React-Redux to build this.
+
+  The problem that I faced while building this project is that when I started this project, I had very little idea about state management stuff, but when I reached that level    where it was being difficult for me to handle state and it was becoming a headache for me to debug code project which has many states, so then I came to know about Redux which   is a state management tool and mostly used with react. 
+
+  Redux’s core idea is that the whole state of the app is contained in one central location. Every element of an application can access the application status directly without sending props to child components or by calling back data to parents. So after learning redux, I embedded it in my project which helped me in managing state in a proper manner and with that debugging became easy for me but with that my code became somewhat complex.
+
 #
 
 
