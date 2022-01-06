@@ -11,6 +11,42 @@
 
 #
 
+## Functionalities
+
+    1. Product List show with all the given details
+    2. You can view details in a big page of a product
+    3. Add / Remove Product from Cart 
+    4. Increase and Decrease the quantity of selected product
+    5. Total price with Unit price 
+
+## Features
+
+    1. LocalStorage with Localforage
+    2. React Routing
+    3. Simple UI with Material-UI
+    4. Fully Responsive
+    5. Fetching Data asynchronously
+
+## Technologies
+
+    1. React 
+    2. React-Readux
+    3. React-Router-Dom
+    4. Material UI
+    5. LocalForage
+    6. Redux-Logger
+    7. Redux-thunk for async api
+    8. Axios fro fetching Data
+
+
+
+
+
+
+#
+#
+
+
 
 # Getting Started with Create React App
 
